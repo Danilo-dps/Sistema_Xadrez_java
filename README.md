@@ -3,6 +3,14 @@
 
 Este é um projeto de desenvolvimento de um jogo de xadrez que opera no console Git Bash. O objetivo é consolidar o aprendizado até este ponto do curso de Formação Java disponível na plataforma Udemy, ministrado pelo professor Nélio Alves.
 
+## Instruções para jogar:
+- Clone o repositório
+- Compile o código, após compilação, irá gerar a pasta bin
+- Acesse a pasta bin, clique com o botão direito e abra o terminal do git bash nessa pasta
+- Digite o seguinte comando (Sem as aspas) "java application/Program"
+- Exemplo 
+![Rodando](Exemplo_Jogando.png)
+
 ### Links Relevantes
 
 - [Curso de Formação Java na Udemy](https://www.udemy.com/share/101scA3@Y_3_op-F6OAuJhlI1-3dECcB7y2qwvCa4o1r6yhfrSs0MMaGPMftes2n34iNpip_rg==/)
